@@ -1,3 +1,3 @@
 # Demo-Conflict-Resolution
 
-by Josiah Lindner
+A simple demo of conflict resolution
